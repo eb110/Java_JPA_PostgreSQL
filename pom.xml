@@ -14,7 +14,9 @@
 	<name>PostgreSQL</name>
 	<description>An example of JPA based on PostgreSQL data base</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
+		<sonar.organization>eb110</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
